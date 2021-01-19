@@ -1,5 +1,5 @@
 {
-  "name": "A Tale of Tensorflow.js",
+  "name": "A-Tale-of-Tensorflowjs",
   "version": "0.0.1",
   "description": "",
   "keywords": [
@@ -10,7 +10,7 @@
   ],
   "license": "MIT",
   "author": {
-    "name": "Álvaro",
+    "name": "Alvaro",
     "url": "https://github.com/AlvaroJSnish"
   },
   "scripts": {
@@ -21,5 +21,8 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.8.4"
   }
 }
